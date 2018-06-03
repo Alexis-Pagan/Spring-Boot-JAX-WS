@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: alexi
+Implementation-Vendor-Id: Example
+Build-Jdk: 1.8.0_141
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Example
+Created-By: Maven Integration for Eclipse
+
